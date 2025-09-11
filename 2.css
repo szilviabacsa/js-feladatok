@@ -1,0 +1,22 @@
+#tarolo{
+    width: 800px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+
+.zold, .sarga, .lila{
+    width: 100px;
+    height: 100px;
+}
+.zold, .sarga{
+    display: none;
+}
+
+.lila{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+}
