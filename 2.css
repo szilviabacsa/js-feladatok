@@ -19,4 +19,39 @@
     background-color: purple;
     width: 100px;
     height: 100px;
+    margin-right: 5px;
+}
+
+#tarolo2{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+#tarolo3{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li{
+    list-style-type: none;
+}
+
+#tarolo4{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: flex-end;
 }
