@@ -1,0 +1,73 @@
+#tarolo, #tarolo2, #tarolo3{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.zold{
+    background-color: green;
+    width: 33%;
+    height: 300px;
+}
+
+.sarga{
+    background-color: yellow;
+    width: 33%;
+    height: 300px;
+}
+
+.lila{
+    background-color: purple;
+    width: 33%;
+    height: 300px;
+}
+
+.zold2{
+    background-color: green;
+    width: 25%;
+    height: 300px;
+}
+
+.sarga2{
+    background-color: yellow;
+    width: 50%;
+    height: 300px;
+}
+
+.lila2{
+    background-color: purple;
+    width: 25%;
+    height: 300px;
+}
+
+#tarolo4{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.zold3{
+    background-color: green;
+    width: 50%;
+    height: 100px;
+    order: 1;
+
+}
+
+.sarga3{
+    background-color: yellow;
+    width: 50%;
+    height: 200px;
+    order: 3;
+
+}
+
+.lila3{
+    background-color: purple;
+    width: 50%;
+    height: 100px;
+    order: 2;
+}
